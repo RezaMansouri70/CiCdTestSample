@@ -14,7 +14,7 @@ namespace UiTest
             bool result= (myvar == "test");
 
             //Assert 
-            Assert.True(result); 
+            Assert.True(!result); 
         }
     }
 }
