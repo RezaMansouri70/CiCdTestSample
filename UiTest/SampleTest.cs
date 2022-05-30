@@ -2,7 +2,7 @@ using Xunit;
 
 namespace UiTest
 {
-    public class SampleTest
+    public class SampleTest 
     {
         [Fact]
         public void Just_For_Run_Sample_Test()
